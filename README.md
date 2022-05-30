@@ -37,6 +37,12 @@ $ python FCF.py
 
 # MENU AND RESULTS
 [![Screenshot-2022-05-30-22-12-23-11-84d3000e3f4017145260f7618db1d683.jpg](https://i.postimg.cc/SKt4Qh3r/Screenshot-2022-05-30-22-12-23-11-84d3000e3f4017145260f7618db1d683.jpg)](https://postimg.cc/06mFZL8M)
+[![IMG-20220531-052110.jpg](https://i.postimg.cc/k4m5P9bp/IMG-20220531-052110.jpg)](https://postimg.cc/SXg4cBV6)
+
+# Please Don't forget to give a star 🌟
+
+[![385568e416916e4304d35bec61bab57e.gif](https://i.postimg.cc/Y9MtyRcc/385568e416916e4304d35bec61bab57e.gif)](https://postimg.cc/KKpX1nvQ)
+
 
 
 
